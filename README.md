@@ -9,7 +9,3 @@ Trabajo práctico correspondiente a la materia **Lógica de Programación**. Est
 ## Estructura
 
 El taller está compuesto por 20 ejercicios (`ejercicio1.java` – `ejercicio20.java`), cada uno abordando distintos conceptos y problemas propuestos en el taller.
-
-## Autor
-
-Javier — Universidad, Lógica de Programación
